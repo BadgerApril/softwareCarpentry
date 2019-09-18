@@ -1,5 +1,5 @@
-*.dat
-results/
-../data-shell/
-../*.docx
-../*.temp
+/git1/*.dat
+/git1/results/
+data-shell/
+*.docx
+*.temp
