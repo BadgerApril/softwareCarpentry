@@ -3,3 +3,4 @@ line 2 text here
 buth the mummy will appreciate the lack of humidity
 this is a fourth line of the mars added in master branch but has conflict with changes in marchTemp Branch 
 Hey I messed up with the file in this marsTemp branch!
+I edited Mars on laptop2
